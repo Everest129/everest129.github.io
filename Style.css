@@ -1,0 +1,27 @@
+img{
+ 	margin-left: auto;
+  	margin-right: auto;
+  	justify-content: center;
+	width: 550px;
+	height: 400px;
+}
+
+
+form{
+	  display: block;
+	  margin-left: auto;
+ 	  margin-right: auto;
+	  width: 50%;
+	  height: 50%;
+}
+
+h1{
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+}
+
+h2{
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+}
+
